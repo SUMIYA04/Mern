@@ -12,8 +12,7 @@
  
  3. Reactjs  
  4. Nodejs  
- 5. Chakra Ui  
- 6. Redux  
+
 
 Here is a Demo : [Demo](https://eastclothing.herokuapp.com/)
 
